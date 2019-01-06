@@ -1,2 +1,2 @@
 # Laure-Midi
-(Fotos/20181228_141900.jpg)
+(FOTOS/20181228_141900.jpg)
